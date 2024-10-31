@@ -13,11 +13,7 @@ This repository contains data about GitHub users in Austin with over 100 followe
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Austin GitHub Community Insights</title>
-</head>
+
 <body>
 
 <h1>Austin GitHub Community Insights</h1>
